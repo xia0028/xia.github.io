@@ -2,5 +2,9 @@
     "title":"xiay的博客",
     "subTitle":"欢迎来到我的博客",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "i18n":"CN",
+    "startSite":"07/11/2026",
+    "UTC":8,
+    "needComment":1,
     "GMEEK_VERSION":"last"
 }
